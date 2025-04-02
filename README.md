@@ -1,7 +1,7 @@
 # Audio-Deepfake-Detection
 # Enhanced AASIST and AASIST2 Project
 
-Welcome to the **Enhanced AASIST and AASIST2** repository! This project focuses on improving speech anti-spoofing systems using advanced machine learning techniques. It includes two main components: `main.py` (Enhanced AASIST) and `AASIST2` (my customized version).
+Welcome to the **Enhanced AASIST and AASIST2** repository! This project focuses on improving speech anti-spoofing systems using advanced machine learning techniques. It includes two main components: `main.py` (Enhanced AASIST) and `AASIST2` (my customized version). Please find the detailed assessment in the file: **Momenta Assessment.pdf** located in this repository.
 
 ---
 
